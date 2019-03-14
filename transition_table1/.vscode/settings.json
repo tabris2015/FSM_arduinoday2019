@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/pepe/.platformio/penv/bin:/home/pepe/.platformio/penv:/home/pepe/.local/bin:/home/pepe/bin:/opt/ros/melodic/bin:/usr/local/cuda-9.0/bin:/home/pepe/.local/bin:/home/pepe/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/cuda/bin:/usr/local/cuda/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
